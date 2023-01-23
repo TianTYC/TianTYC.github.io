@@ -26,7 +26,7 @@ Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanc
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='wstrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking]
@@ -35,14 +35,10 @@ Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanc
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
 
 **INFOCOM 2023** **(<font color=red> CCF-A </font>)** | 
-<!--   [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Slides]](resources/acktheunknown_10min_slides.pdf) -->
-<!-- - This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
-- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
-- Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality. -->
 </div>
 </div>
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='fakenews.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/fakenews.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion]
 <!--   (https://arxiv.org/pdf/2203.16219.pdf) -->
@@ -50,7 +46,7 @@ Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanc
 Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei 
 
 **IPM** **(<font color=red> IF:7.47, SCI-1/CCF-B</font>)** |  
-<!--   [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Slides]](resources/acktheunknown_10min_slides.pdf) -->
+
 </div>
 </div>
 
