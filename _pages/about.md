@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi!! I'm Tian Yichen. I received my B.E. degree in [Software Engineering from Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/), China. Currently, I'm working toward an M.S. degree at the [College of Intelligence and Computing,  Tianjin University](http://cic.tju.edu.cn/)<img src='images/logo_TJU.png' style='width: 1.1em;'> ([learn more about TJU], China, and I will begin a successive postgraduate and doctoral program from September,2023.
-Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)<img src='images/logo_tanklab.png' style='width: 2.1em;'>. Especially, I am interested in indoor localization and multi-modal sensing. 
+Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)<img src='images/logo_tanklab.png' style='width: 3 em;'>. Especially, I am interested in indoor localization and multi-modal sensing. 
 
 # 🔥 News
 - *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
