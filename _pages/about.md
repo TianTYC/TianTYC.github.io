@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from Zhengzhou University(2017~2021), China. Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing,  Tianjin University, China, and I will begin a successive postgraduate and doctoral program from September,2023.
-Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanced Networking (TANK Lab). Especially, I am interested in indoor localization and multi-modal sensing. 
+Hi!! I'm Tian Yichen. I received my B.E. degree in [Software Engineering from Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/), China. Currently, I'm working toward an M.S. degree at the [College of Intelligence and Computing,  Tianjin University](http://cic.tju.edu.cn/)<img src='images/logo_TJU.png' style='width: 1.1em;'> ([learn more about TJU], China, and I will begin a successive postgraduate and doctoral program from September,2023.
+Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)<img src='images/logo_tanklab.png' style='width: 2.1em;'>. Especially, I am interested in indoor localization and multi-modal sensing. 
 
 # 🔥 News
-- *2022.12*: 🎉 One paper is accepted by INFOCOM 2023!
+- *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
 - *2022.11*: 🎉 Passed the doctoral examination defence and I will begin a successive postgraduate and doctoral program from September,2023.
 - *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
-- *2021.05*: 🎉 One paper is accepted by IPM!
-- *2020.11*: ✨ Joined NCC group of TankLab at the College of Intelligence and Computing,  Tianjin University
-- *2020.10*: 🎉 Acquired a qualification of postgraduate recommendation (ranked the 1st of 713 students), and decide to pursue my master’s degree in Tianjin University!
+- *2021.05*: 🎉 One paper is accepted by **IPM**!
+- *2020.11*: ✨ Joined **NCC group** of **TankLab** at the College of Intelligence and Computing,  Tianjin University
+- *2020.10*: 🎉 Acquired a qualification of postgraduate recommendation (ranked 1/713), and decide to pursue my master’s degree in Tianjin University!
 - *2020.10*: 🎉 Acquired Offers from UNSW, USYD and UniMelb!
 - *2019.12*: 🎉 Awarded the Merit student of Henan Province!
 - *2019.12*: 🏅 Awarded a national scholarship!
@@ -26,11 +26,10 @@ Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanc
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking]
-<!--   (https://arxiv.org/pdf/2203.16219.pdf) -->
 
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
 
@@ -38,7 +37,7 @@ Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanc
 </div>
 </div>
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/fakenews.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/fakenews.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion]
 <!--   (https://arxiv.org/pdf/2203.16219.pdf) -->
@@ -56,7 +55,7 @@ Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei
 - *2021.06* &ensp; Outstanding Graduate of Henan province(top 2%) and Zhengzhou University(top 3%)
 - *2021.06* &ensp; Excellent Graduation Thesis of Zhengzhou University (top 1.5%)
 - *2020.09* &ensp; First-Class Scholarship (top 5%)
-- *2019.12* Merit Student Award of Henan Province (top 0.3%)
-- *2019.12* National Scholarship (top 1%)
-- *2018.12* National Scholarship (top 1%)
-- *2018-2020* Merit Student of Zhengzhou University (three times)
+- *2019.12* &ensp; Merit Student Award of Henan Province (top 0.3%)
+- *2019.12* &ensp; National Scholarship (top 1%)
+- *2018.12* &ensp; National Scholarship (top 1%)
+- *2018-2020* &ensp; Merit Student of Zhengzhou University (three times)
