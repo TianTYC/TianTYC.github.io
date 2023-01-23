@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yichen Tian"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : "Yichen Tian"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   bio              : "M.S. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
   location         : "Tianjin/Zhengzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=67hHKAEAAAAJ"
   email            : "tianyichentyc@tju.edu.cn/tianyichentyc@163.com"
   researchgate     : "https://www.researchgate.net/profile/Yichen-Tian-2"
@@ -104,13 +104,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0044-5777"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
