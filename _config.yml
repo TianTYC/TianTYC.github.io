@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yichen Tian"
 title_separator          : "-"
-name                     : &name "Yichen Tian"
+name                     : "Yichen Tian"
 description              : &description "personal description"
 url                      : https://TianTYC.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
