@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "田逸尘       Yichen Tian"
+  name             : "Yichen Tian <br/>田逸尘"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.S. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
   location         : "Tianjin/Zhengzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=67hHKAEAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "tianyichentyc@tju.edu.cn/tianyichentyc@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Yichen-Tian-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "TianTYC"
   google_plus      :
   keybase          :
   instagram        :
