@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "WELCOME TO MY HOMEPAGE!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from Zhengzhou University(2017~2021), China. Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing,  Tianjin University, China, and I will begin a successive postgraduate and doctoral program from September,2023.
+Now I'm working on AIOT and wireless sensing at Tianjin Key Laboratory of Advanced Networking (TANK Lab). Especially, I am interested in indoor localization and multi-modal sensing. 
 
 A data-driven personal website
 ======
