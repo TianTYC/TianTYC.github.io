@@ -37,18 +37,18 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 ## &ensp; **Conference**
 1. **WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking** <br/>
    **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li<br/>
- _(Accepted)_ IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
+ **_(Accepted)_** IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
 
 ## &ensp; **Journal**
 
 1. **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
    Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
-_(Accepted)_ Information Processing & Management(_IPM_), 2021 (<font color=blue> CCF-B / SCI-1, IF:7.47 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
+**_(Accepted)_** Information Processing & Management(_IPM_), 2021 (<font color=blue> CCF-B / SCI-1, IF:7.47 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
 
 
 2. **CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi** <br/>
    Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen <br/>
- _(In submission)_ IEEE Internet of Things Journal(_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
+ **_(In submission)_** IEEE Internet of Things Journal(_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
 
 
 
