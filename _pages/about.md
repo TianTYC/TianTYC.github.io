@@ -34,12 +34,12 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 ## 📝 Publications
-### &ensp; **Conference**
+## &ensp; **Conference**
 1. **WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking** <br/>
    **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li<br/>
  **_(Accepted)_** IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
 
-### &ensp; **Journal**
+## &ensp; **Journal**
 
 1. **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
    Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
