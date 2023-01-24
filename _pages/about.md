@@ -34,8 +34,24 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 # 📝 Publications
+---
+title: "WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the wstrack.'
+date: 2009-10-01
+venue: 'INFOCOM 2023'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="50%"></div></div>
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Y. Tian, Y. Wang, R. Zheng, X. Liu, X. Tong and K. Li, “WSTrack : A Wi-Fi and Sound Fusion System for Device-free Human Tracking,” in Proc. of IEEE INFOCOM, 2023.
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking](https://tiantyc.github.io/)
@@ -44,7 +60,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 **INFOCOM 2023** **(<font color=red> CCF-A </font>)** 
 </div>
-</div>
+</div> -->
  
 
 
