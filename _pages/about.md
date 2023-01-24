@@ -15,9 +15,9 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 ## 🎓 Education
-* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, rank:1/713)
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, ranking first,top 0.1%)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
-* 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University (expected)
+* 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University
 
 
 ## 🔥 News
@@ -37,7 +37,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 ## &ensp; **Conference**
 1. **WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking** <br/>
    **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li<br/>
- **_(Accepted)_** IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
+ **_(Accepted)_** IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack.pdf)<br/>
 
 ## &ensp; **Journal**
 
