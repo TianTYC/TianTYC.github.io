@@ -34,15 +34,15 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 # 📝 Publications
--  _**(Accepted)**_ **<font color=blue> WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking</font>** <br/>
-**IEEE INFOCOM 2023 - IEEE Conference on Computer Communications (<font color=blue> CCF-A </font>)** [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
+-  _**(Accepted)**_ **WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking** <br/>
+**IEEE INFOCOM 2023 (<font color=blue> CCF-A </font>)** [Download paper here](http://TianTYC.github.io/files/wstrack_final.pdf)<br/>
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li<br/>
 
--  _**(Accepted)**_ **<font color=blue> Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion</font>** <br/>
+-  _**(Accepted)**_ **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
 **IPM - Information Processing & Management (<font color=blue> CCF-B / SCI-1, IF:7.47 </font>)** [Download paper here](http://TianTYC.github.io/files/fakenews.pdf)<br/>
 Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
 
--  _**(Submitted)**_ **<font color=blue> _CrossTrack_: Device-free Cross-link Tracking with Commodity Wi-Fi</font>** <br/>
+-  _**(Submitted)**_ **CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi** <br/>
 **IEEE IOTJ - IEEE Internet of Things Journal (<font color=blue> SCI-1, IF:10.24 </font>)** [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
 Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen <br/>
 
