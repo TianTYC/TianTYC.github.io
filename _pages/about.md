@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class='anchor' id='about-me'></span>
 
-Hi!! I'm Tian Yichen. I received my B.E. degree in [Software Engineering from Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/), China. Currently, I'm working toward an M.S. degree at the [College of Intelligence and Computing,  Tianjin University](http://cic.tju.edu.cn/)<img src='images/logo_TJU.png' style='width: 1.1em;'> ([learn more about TJU], China, and I will begin a successive postgraduate and doctoral program from September,2023.
-Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)<img src='images/logo_tanklab.png' style='width: 3 em;'>. Especially, I am interested in indoor localization and multi-modal sensing. 
+Hi!! I'm Tian Yichen. I received my B.E. degree in [Software Engineering from Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the [College of Intelligence and Computing, **Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September,2023.
+
+Now I'm working on **AIOT and wireless sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
 
 # 🔥 News
 - *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
@@ -17,7 +19,7 @@ Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advan
 - *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
 - *2021.05*: 🎉 One paper is accepted by **IPM**!
 - *2020.11*: ✨ Joined **NCC group** of **TankLab** at the College of Intelligence and Computing,  Tianjin University
-- *2020.10*: 🎉 Acquired a qualification of postgraduate recommendation (ranked 1/713), and decide to pursue my master’s degree in Tianjin University!
+- *2020.10*: 🎉 Acquired a qualification of postgraduate recommendation, and decide to pursue my master’s degree in Tianjin University!
 - *2020.10*: 🎉 Acquired Offers from UNSW, USYD and UniMelb!
 - *2019.12*: 🎉 Awarded the Merit student of Henan Province!
 - *2019.12*: 🏅 Awarded a national scholarship!
@@ -26,28 +28,21 @@ Now I'm working on AIOT and wireless sensing at [Tianjin Key Laboratory of Advan
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking]
+[WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking](https://tiantyc.github.io/)
 
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
 
-**INFOCOM 2023** **(<font color=red> CCF-A </font>)** | 
+**INFOCOM 2023** **(<font color=red> CCF-A </font>)** | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Slides]](resources/acktheunknown_10min_slides.pdf)
+- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
+- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
+- Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 </div>
 </div>
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/fakenews.png' alt="sym" width="30%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion]
-<!--   (https://arxiv.org/pdf/2203.16219.pdf) -->
 
-Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei 
-
-**IPM** **(<font color=red> IF:7.47, SCI-1/CCF-B</font>)** |  
-
-</div>
-</div>
 
 
 # 🏅 Honors and Awards
