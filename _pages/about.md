@@ -9,16 +9,15 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from [Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [**Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September,2023.
+Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [**Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September,2023.
 
-Now I'm working on **AIOT and wireless sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
+Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
 
 
 # 🎓 Education
-======
 * 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, rank:1/713)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
-* 2023- ?   &ensp; Ph.D in Software Engineering, Tianjin University (expected)
+* 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University (expected)
 
 
 # 🔥 News
