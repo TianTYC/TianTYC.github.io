@@ -1,6 +1,6 @@
 ---
 permalink: /
-<!-- title: "WELCOME TO MY HOMEPAGE!" -->
+title: "Yichen Tian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
