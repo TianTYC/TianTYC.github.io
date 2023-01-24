@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : "Yichen Tian"
-description              : &description "personal description"
+description              : "M.S. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
 url                      : https://TianTYC.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Yichen Tian <br/>田逸尘"
   avatar           : "profile2.jpg"
-  bio              : "M.S. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
+  bio              : "TJU & TankLab"
   location         : "Tianjin/Zhengzhou, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
