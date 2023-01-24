@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-Hi!! I'm Tian Yichen. I received my B.E. degree in [Software Engineering from Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the [College of Intelligence and Computing, **Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September,2023.
+Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from [Zhengzhou University(2017~2021)](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [**Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September,2023.
 
 Now I'm working on **AIOT and wireless sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
 
@@ -35,10 +35,7 @@ Now I'm working on **AIOT and wireless sensing** at [Tianjin Key Laboratory of A
 
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
 
-**INFOCOM 2023** **(<font color=red> CCF-A </font>)** | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Slides]](resources/acktheunknown_10min_slides.pdf)
-- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
-- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
-- Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
+**INFOCOM 2023** **(<font color=red> CCF-A </font>)** 
 </div>
 </div>
  
