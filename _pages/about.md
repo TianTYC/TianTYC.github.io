@@ -13,6 +13,14 @@ Hi!! I'm Tian Yichen. I received my B.E. degree in Software Engineering from [Zh
 
 Now I'm working on **AIOT and wireless sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
 
+
+# 🎓 Education
+======
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, rank:1/713)
+* 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
+* 2023- ?   &ensp; Ph.D in Software Engineering, Tianjin University (expected)
+
+
 # 🔥 News
 - *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
 - *2022.11*: 🎉 Passed the doctoral examination defence and I will begin a successive postgraduate and doctoral program from September,2023.
