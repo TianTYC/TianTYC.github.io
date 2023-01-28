@@ -66,10 +66,10 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 	<h2> </h2>
 		<div align="center">
 		  <small>This page has been visited for
-			<a href="https://www.easycounter.com/">
-			<img src="https://www.easycounter.com/counter.php?dichang" border="0" alt="HTML Hit Counter"></a>times</small>
-		  </div> 
-	</div>
+			  <a href="https://www.easycounter.com/">
+			  <img src="https://www.easycounter.com/counter.php?cyt" border="0" alt="Web Site Hit Counters"></a>
+			  
+		</div> 
   <p>
 	<center>
 	<div align="center" style="width:20%">
