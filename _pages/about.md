@@ -63,13 +63,13 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 - *2018-2020* &ensp; Merit Student of Zhengzhou University (three times)
 
 <div id="footer1">
-	<h2> </h2>
+		<h2> </h2>
 		<div align="center">
 		  <small>This page has been visited for
 			  <a href="https://www.easycounter.com/">
 			  <img src="https://www.easycounter.com/counter.php?cyt" border="0" alt="Web Site Hit Counters"></a>  
 		</div> 
-			</div> 
+	
   <p>
 	<center>
 	<div align="center" style="width:20%">
