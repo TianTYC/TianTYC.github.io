@@ -67,9 +67,9 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 		<div align="center">
 		  <small>This page has been visited for
 			  <a href="https://www.easycounter.com/">
-			  <img src="https://www.easycounter.com/counter.php?cyt" border="0" alt="Web Site Hit Counters"></a>
-			  
+			  <img src="https://www.easycounter.com/counter.php?cyt" border="0" alt="Web Site Hit Counters"></a>  
 		</div> 
+			</div> 
   <p>
 	<center>
 	<div align="center" style="width:20%">
