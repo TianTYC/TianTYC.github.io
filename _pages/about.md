@@ -43,16 +43,16 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 1. **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
    Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
-**_(Accepted)_** Information Processing & Management(_IPM_), 2021 (<font color=blue> CCF-B / SCI-1, IF:7.47 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
+**_(Accepted)_** Information Processing & Management (_IPM_), 2021 (<font color=blue> CCF-B / SCI-1, IF:7.47 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
 
 
 2. **CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi** <br/>
    Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen <br/>
- **_(In submission)_** IEEE Internet of Things Journal(_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
+ **_(In submission)_** IEEE Internet of Things Journal (_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
 
 3. **Device-free Human Tracking and Gait Recognition Based on the Voice Assistant** <br/>
    **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
- **_(In submission)_** IEEE Transaction on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A, IF:6.08 </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
+ **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A, IF:6.08 </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
 
 ## 🏅 Honors and Awards
 - *2022.10* &ensp; Second-Class Scholarship
