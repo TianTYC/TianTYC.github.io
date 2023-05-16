@@ -48,7 +48,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 2. **CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi** <br/>
    Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen <br/>
- **_(In submission)_** IEEE Internet of Things Journal (_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
+ **_(Accepted)_** IEEE Internet of Things Journal (_IOTJ_), 2023 (<font color=blue> SCI-1, IF:10.24 </font>) [Download paper here](http://TianTYC.github.io/files/crosstrack_final.pdf)<br/>
 
 3. **Device-free Human Tracking and Gait Recognition Based on the Voice Assistant** <br/>
    **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
