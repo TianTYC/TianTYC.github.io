@@ -15,7 +15,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 ## 🎓 Education
-* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, ranking first,top 0.1%)
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, top 0.1%)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
 * 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University
 
