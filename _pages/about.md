@@ -52,6 +52,10 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
    **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
  **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
 
+4. **NNE-Tracking: A Neural Network Enhanced Framework for Device-free Wi-Fi Tracking** <br/>
+   Xinyu Tong, Weiping Ge, **Yichen Tian**, Zijuan Liu, Xiulong Liu, Wenyu Qu <br/>
+ **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/nne_final.pdf)<br/>
+
 ## 🏅 Honors and Awards
 - *2022.10* &ensp; Second-Class Scholarship
 - *2021.06* &ensp; Outstanding Graduate of Henan province (top 2%) and Zhengzhou University (top 3%)
