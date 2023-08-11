@@ -19,7 +19,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
 * 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University
 
-
+<!---
 ## 🔥 News
 - *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
 - *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
@@ -29,7 +29,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 - *2020.10*: 🎉 Acquired Offers from UNSW, USYD, and UniMelb!
 - *2019.12*: 🏅 Awarded a national scholarship!
 - *2018.12*: 🏅 Awarded a national scholarship!
-
+-->
 
 ## 📝 Publications
 ## &ensp; **Conference**
