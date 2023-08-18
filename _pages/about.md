@@ -58,6 +58,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 ## 🏅 Honors and Awards
 - *2022.10* &ensp; Second-Class Scholarship
+- *2021.10* &ensp; Special Scholarship 
 - *2021.06* &ensp; Outstanding Graduate of Henan province (top 2%) and Zhengzhou University (top 3%)
 - *2021.06* &ensp; Excellent Graduation Thesis of Zhengzhou University (top 1.5%)
 - *2020.09* &ensp; First-Class Scholarship (top 5%)
