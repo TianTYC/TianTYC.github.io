@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [**Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'> [learn more about TJU](http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September 2023.
+I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [**Tianjin University**](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'>(http://www.tju.edu.cn/english/index.htm), and I will begin a successive postgraduate and doctoral program from September 2023.
 
 Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
 
