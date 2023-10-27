@@ -57,15 +57,16 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
  **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/nne_final.pdf)<br/>
 
 ## 🏅 Honors and Awards
+- *2023.10* &ensp; First-Class Scholarship
 - *2022.10* &ensp; Second-Class Scholarship
 - *2021.10* &ensp; Special Scholarship 
 - *2021.06* &ensp; Outstanding Graduate of Henan province (top 2%) and Zhengzhou University (top 3%)
-- *2021.06* &ensp; Excellent Graduation Thesis of Zhengzhou University (top 1.5%)
-- *2020.09* &ensp; First-Class Scholarship (top 5%)
+- *2021.06* &ensp; Excellent Graduation Thesis of Zhengzhou University
+- *2020.09* &ensp; First-Class Scholarship 
 - *2019.12* &ensp; Merit Student Award of Henan Province (top 0.3%)
 - *2019.12* &ensp; National Scholarship (top 1%)
 - *2018.12* &ensp; National Scholarship (top 1%)
-- *2018-2020* &ensp; Merit Student of Zhengzhou University (three times)
+- *2018-2020* &ensp; Merit Student of Zhengzhou University
 
 <div id="footer1">
 		<h2> </h2>
