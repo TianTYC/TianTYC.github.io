@@ -50,11 +50,11 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 3. **Device-free Human Tracking and Gait Recognition Based on the Voice Assistant** <br/>
    **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
- **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
+ **_(Major Revision)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
 
 4. **NNE-Tracking: A Neural Network Enhanced Framework for Device-free Wi-Fi Tracking** <br/>
    Xinyu Tong, Weiping Ge, **Yichen Tian**, Zijuan Liu, Xiulong Liu, Wenyu Qu <br/>
- **_(In submission)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/nne_final.pdf)<br/>
+ **_(Major Revision)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/nne_final.pdf)<br/>
 
 ## 🏅 Honors and Awards
 - *2023.10* &ensp; First-Class Scholarship
