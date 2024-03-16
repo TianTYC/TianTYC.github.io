@@ -9,13 +9,13 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I'm working toward an M.S. degree at the College of Intelligence and Computing, [Tianjin University](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'>, and I will begin a successive postgraduate and doctoral program from September 2023.
+I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I'm a first-year PH.D. student at the College of Intelligence and Computing, [Tianjin University](http://cic.tju.edu.cn/english/home.htm)<img src='images/logo_TJU.png' style='width: 1.1em;'>.
 
-Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **indoor localization** and **multi-modal sensing**. 
+Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111). Especially, I am interested in **Indoor Localization** and **Multi-modal Sensing**. 
 
 
 ## 🎓 Education
-* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, top 0.1%)
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, Rank:1/713)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
 * 2023-???? &ensp; Ph.D in Software Engineering, Tianjin University
 
@@ -39,10 +39,10 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 ## &ensp; **Journal**
 
-1. **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
-   Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
-   Information Processing & Management (_IPM_), 2021 (<font color=blue> CCF-B / SCI-Q1 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
 
+1. **Device-free Human Tracking and Gait Recognition Based on the Voice Assistant** <br/>
+   **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
+   IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
 
 2. **CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi** <br/>
    Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen <br/>
@@ -52,9 +52,13 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
    Xinyu Tong, Weiping Ge, **Yichen Tian**, Zijuan Liu, Xiulong Liu, Wenyu Qu <br/>
    IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/nne_final.pdf)<br/>
 
-4. **Device-free Human Tracking and Gait Recognition Based on the Voice Assistant** <br/>
-   **Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu <br/>
- **_(Major Revision)_** IEEE Transactions on Mobile Computing (_TMC_), 2023 (<font color=blue> CCF-A </font>) [Download paper here](http://TianTYC.github.io/files/wstrack+_final.pdf)<br/>
+4. **Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion** <br/>
+   Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei <br/>
+   Information Processing & Management (_IPM_), 2021 (<font color=blue> CCF-B / SCI-Q1 </font>) [Download paper here](http://TianTYC.github.io/files/fakenews_final.pdf)<br/>
+
+
+
+
 
 
 
