@@ -17,7 +17,7 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 ## 🎓 Education
 * 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, Rank:1/713)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
-* 2023-????  &ensp; Ph.D. in Software Engineering, Tianjin University
+* 2023-2027(expecting)  &ensp; Ph.D. in Software Engineering, Tianjin University
 
 <!---
 ## 🔥 News
@@ -66,13 +66,12 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 - *2023.10* &ensp; First-Class Scholarship
 - *2022.10* &ensp; Second-Class Scholarship
 - *2021.10* &ensp; Special Scholarship 
-- *2021.06* &ensp; Outstanding Graduate of Henan province (top 2%) and Zhengzhou University (top 3%)
-- *2021.06* &ensp; Excellent Graduation Thesis of Zhengzhou University
+- *2021.06* &ensp; Outstanding Graduate of Henan Province and Zhengzhou University
 - *2020.09* &ensp; First-Class Scholarship 
-- *2019.12* &ensp; Merit Student Award of Henan Province (top 0.3%)
-- *2019.12* &ensp; National Scholarship (top 1%)
-- *2018.12* &ensp; National Scholarship (top 1%)
-- *2018-2020* &ensp; Merit Student of Zhengzhou University
+- *2019.12* &ensp; Merit Student Award of Henan Province
+- *2019.12* &ensp; National Scholarship
+- *2018.12* &ensp; National Scholarship 
+
 
 <div id="footer1">
 		<h2> </h2>
