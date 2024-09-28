@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : "Yichen Tian"
-description              : "M.S. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
+description              : "Ph.D. student in Tianjin University.Doing research in Networking & Cloud Computing group(NCC) at Tianjin Key Laboratory of Advanced Networking (TANK Lab)"
 url                      : https://TianTYC.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yichen Tian <br/>田逸尘"
+  name             : "Yichen Tian <br/>"
   avatar           : "profile3.jpg"
   bio              : "TJU & TankLab"
   location         : "Tianjin/Zhengzhou, China"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TianTYC"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
