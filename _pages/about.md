@@ -58,10 +58,6 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 
 
 
-
-
-
-
 ## 🏅 Honors and Awards
 - *2023.10* &ensp; First-Class Scholarship
 - *2022.10* &ensp; Second-Class Scholarship
@@ -72,6 +68,10 @@ Now I'm working on **AIOT and Wireless Sensing** at [Tianjin Key Laboratory of A
 - *2019.12* &ensp; National Scholarship
 - *2018.12* &ensp; National Scholarship 
 
+
+## ✏️ Academic Service
+## &ensp; **Reviewers**
+1. IEEE Internet of Things Journal
 
 <div id="footer1">
 		<h2> </h2>
