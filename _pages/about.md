@@ -69,7 +69,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
 -->
 <!-- ========================================== 1 ==========================================-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ]([https://arxiv.org/abs/2510.22994](https://www.researchgate.net/profile/Yichen-Tian-2/publication/373507414_WSTrack_A_Wi-Fi_and_Sound_Fusion_System_for_Device-free_Human_Tracking/links/65098d9e82f01628f032a1b5/WSTrack-A-Wi-Fi-and-Sound-Fusion-System-for-Device-free-Human-Tracking.pdf))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
@@ -85,31 +85,104 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 ---
 
 <!-- ========================================== 2 ==========================================-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/wsgait.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/wsgait.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ]([https://arxiv.org/abs/2510.22994](https://www.researchgate.net/profile/Yichen-Tian-2/publication/373507414_WSTrack_A_Wi-Fi_and_Sound_Fusion_System_for_Device-free_Human_Tracking/links/65098d9e82f01628f032a1b5/WSTrack-A-Wi-Fi-and-Sound-Fusion-System-for-Device-free-Human-Tracking.pdf))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+[**Device-free Human Tracking and Gait Recognition Based on the Smart Speaker**]([https://arxiv.org/abs/2510.22994](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476728))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
 
-**Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+**Yichen Tian**, Yunliang Wang, Yufan Wang, Xinyu Tong, Xiulong Liu, Wenyu Qu
 
-***IEEE International Conference on Computer Communications (INFOCOM) 2026***
+***IEEE Transactions on Mobile Computing (TMC) 2024***
 
 <!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
 </div>
 </div>
 
 ---
+<!-- ========================================== 3 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/wstrack.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!--- By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
+[**WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+**Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
+
+***IEEE International Conference on Computer Communications (INFOCOM) 2023***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
-</div>
-</div>
+---
+<!-- ========================================== 4 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2023</div><img src='images/crosstrack.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[**CrossTrack: Device-free Cross-link Tracking with Commodity Wi-Fi**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132409))<span style="background-color: #428bca; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">SCI Q2</span>
+
+Weiping Ge, **Yichen Tian**, Xiulong Liu, Xinyu Tong*, Wenyu Qu, Zhenzhe Zhong, Haojie Chen
+
+***IEEE Internet of Things Journal (IoTJ) 2023***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
+</div>
+</div>
+---
+<!-- ========================================== 5 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/nne.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NNE-Tracking: A Neural Network Enhanced Framework for Device-free Wi-Fi Tracking**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+Xinyu Tong, Weiping Ge, **Yichen Tian**, Zijuan Liu, Xiulong Liu, Wenyu Qu
+
+***IEEE Transactions on Mobile Computing (TMC) 2024***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
+</div>
+</div>
+---
+<!-- ========================================== 6 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/metatrack.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MetaTrack: Enabling Wi-Fi Device Free Tracking in Complex Scenarios**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+Xuanqi Meng, Weiping Ge, **Yichen Tian**, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+
+***ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2025***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
+</div>
+</div>
+---
+<!-- ========================================== 7 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/wimap.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WiMap: Autonomous Wi-Fi Mapping for Device-free Tracking in Smart Homes**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+Renrui Tan, Tu Hong, **Yichen Tian**, Xinyu Tong, Sheng Chen, Xiulong Liu, Xin Xie, Wenyu Qu
+
+***ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2025***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
+</div>
+</div>
+---
+<!-- ========================================== 8 ==========================================-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2021</div><img src='images/fakenews.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #428bca; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF B</span>
+Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei
+
+***Information Processing & Management (IPM) 2021***
+
+<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
+</div>
+</div>
+---
 
 # 🎖 Honors and Awards
 - *2025.10* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC) Global 10th place (10/305)
