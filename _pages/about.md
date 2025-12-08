@@ -30,6 +30,7 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 ## 🔥 News
 - *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
+- *2025.10*: 🎉 Awarded the Third Prize of SSC Competition@MobiCom2025
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
 - *2024.03*: 🎉 Two papers are accepted by **TMC**!
 - *2023.05*: 🎉 One paper is accepted by **IoTJ**!
@@ -43,7 +44,14 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.png' alt="sym" width="100%"></div></div>
+<!--
+<span style="background-color: #428bca; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF B</span> 蓝色 
+<span style="background-color: #5cb85c; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF C</span> 绿色
+<span style="border: 1px solid #d9534f; color: #d9534f; padding: 1px 5px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF A</span> 极简风 仅边框
+-->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.png' alt="sym" width="35%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
@@ -62,14 +70,23 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 </div>
 </div>
 </div>
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC) Global 10th place (10/305)
+- *2023.10* &ensp; First-Class Scholarship
+- *2021.10* &ensp; Special Scholarship 
+- *2021.06* &ensp; Outstanding Graduate of Henan Province and Zhengzhou University
+- *2020.09* &ensp; First-Class Scholarship 
+- *2019.12* &ensp; Merit Student Award of Henan Province
+- *2019.12* &ensp; National Scholarship
+- *2018.12* &ensp; National Scholarship 
 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
