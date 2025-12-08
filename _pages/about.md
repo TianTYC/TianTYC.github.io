@@ -30,7 +30,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 ## 🔥 News
 - *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
-- *2025.10*: 🎉 Awarded the **Third Prize** of MobiCom 2025 SSC Competition!
+- *2025.11*: 🎉 Awarded the **Third Prize** of MobiCom 2025 SSC Competition!
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
 - *2024.03*: 🎉 Two papers are accepted by **TMC**!
 - *2023.05*: 🎉 One paper is accepted by **IoTJ**!
@@ -173,7 +173,7 @@ Renrui Tan, Tu Hong, <strong style="color: #428bca;">Yichen Tian</strong>, Xinyu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2021</div><img src='images/fakenews.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[**Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion**](https://www.sciencedirect.com/science/article/pii/S0306457321001060)&ensp;<span style="background-color: #428bca; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF B</span>
+[**Detecting Fake News by Exploring Multimodal Data Consistency and Multi-feature Fusion**](https://www.sciencedirect.com/science/article/pii/S0306457321001060)&ensp;<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">SCI Q1</span>
 
 Junxiao Xue, Yabo Wang, <strong style="color: #428bca;">Yichen Tian</strong>, Yafei Li, Lei Shi, Lin Wei
 
@@ -185,7 +185,7 @@ Junxiao Xue, Yabo Wang, <strong style="color: #428bca;">Yichen Tian</strong>, Ya
 
 
 # 🏅 Honors and Awards
-- *2025.10* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC) Global 10th place (10/305)
+- *2025.11* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC), Global 10th place (10/305)
 - *2023.10* &ensp; First-Class Scholarship
 - *2021.10* &ensp; Special Scholarship 
 - *2021.06* &ensp; Outstanding Graduate of Henan Province and Zhengzhou University
