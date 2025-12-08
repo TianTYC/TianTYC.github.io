@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Yichen Tian"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,15 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I am a third-year Ph.D. candidate at the College of Intelligence and Computing, [Tianjin University](http://cic.tju.edu.cn/english/home.htm).
+I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I am a third-year Ph.D. candidate at the School of Software, [Tianjin University](http://cic.tju.edu.cn/english/home.htm).
 
 I am conducting research on the **Internet of Things** at the [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), advised by Prof. Xinyu Tong and Prof. Wenyu Qu. My research interests focus on **Wireless Sensing** and **Indoor Localization**.
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge % <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+## 🎓 Education
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, Rank:1/713)
+* 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
+* 2023-2027(expecting)  &ensp; Ph.D. in Software Engineering, Tianjin University
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+## 🔥 News
+- *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
+- *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
+- *2024.03*: 🎉 Two papers are accepted by **TMC 2024**!
+- *2023.05*: 🎉 One paper is accepted by **IoTJ 2023**!
+- *2022.12*: 🎉 Two papers are accepted by **INFOCOM 2023**!
+- *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
+- *2021.05*: 🎉 One paper is accepted by **IPM**!
+- *2019.12*: 🏅 Awarded a national scholarship.
+- *2018.12*: 🏅 Awarded a national scholarship.
+
+
 
 # 📝 Publications 
 
