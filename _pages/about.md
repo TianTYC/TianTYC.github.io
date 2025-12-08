@@ -31,8 +31,8 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 ## 🔥 News
 - *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
-- *2024.03*: 🎉 Two papers are accepted by **TMC 2024**!
-- *2023.05*: 🎉 One paper is accepted by **IoTJ 2023**!
+- *2024.03*: 🎉 Two papers are accepted by **TMC**!
+- *2023.05*: 🎉 One paper is accepted by **IoTJ**!
 - *2022.12*: 🎉 Two papers are accepted by **INFOCOM 2023**!
 - *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
 - *2021.05*: 🎉 One paper is accepted by **IPM**!
@@ -43,19 +43,21 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi] 
+<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!--- By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
