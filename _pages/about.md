@@ -34,7 +34,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
 - *2024.03*: 🎉 Two papers are accepted by **TMC**!
 - *2023.05*: 🎉 One paper is accepted by **IoTJ**!
-- *2022.12*: 🎉 Two papers are accepted by **INFOCOM 2023**!
+- *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
 - *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
 - *2021.05*: 🎉 One paper is accepted by **IPM**!
 - *2019.12*: 🏅 Awarded a national scholarship.
