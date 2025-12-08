@@ -30,7 +30,7 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 ## 🔥 News
 - *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
-- *2025.10*: 🎉 Awarded the Third Prize of SSC Competition@MobiCom2025
+- *2025.10*: 🎉 Awarded the **Third Prize** of MobiCom 2025 SSC Competition!
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
 - *2024.03*: 🎉 Two papers are accepted by **TMC**!
 - *2023.05*: 🎉 One paper is accepted by **IoTJ**!
@@ -51,13 +51,23 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.png' alt="sym" width="35%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 20px;">
+  
+  <div class='paper-box-image' style="flex: 0 0 250px; max-width: 250px;">
+    <div style="position: relative;">
+      <div class="badge">INFOCOM 2026</div>
+      <img src='images/autoloc.png' alt="sym" style="width: 100%; height: auto; border-radius: 4px;">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="flex: 1;">
 
 **AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
-<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+
+  </div>
+</div>
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!--- By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
@@ -68,8 +78,7 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 -->
 </div>
 </div>
-</div>
-</div>
+
 
 # 🎖 Honors and Awards
 - *2025.10* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC) Global 10th place (10/305)
