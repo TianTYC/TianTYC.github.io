@@ -46,7 +46,7 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi] 
+**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
 <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
