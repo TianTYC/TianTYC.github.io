@@ -56,8 +56,8 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
   <div class='paper-box-image' style="flex: 0 0 250px; max-width: 250px;">
     <div style="position: relative;">
       <div class="badge">INFOCOM 2026</div>
-      <img src='images/autoloc.png' alt="sym" style="width: 100%; height: auto; border-radius: 4px;">
-    </div>
+      <img src='images/autoloc.png' alt="sym" style="width: 100%; height: 120px; object-fit: cover; border-radius: 4px;">
+      </div>
   </div>
 
   <div class='paper-box-text' markdown="1" style="flex: 1;">
