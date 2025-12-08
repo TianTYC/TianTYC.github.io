@@ -74,7 +74,7 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 
 [**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898)&ensp;<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
 
-**Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+<strong><u>Yichen Tian</u></strong>, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
 
 ***IEEE International Conference on Computer Communications (INFOCOM) 2026***
 
