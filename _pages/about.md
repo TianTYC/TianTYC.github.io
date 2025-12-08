@@ -23,9 +23,9 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge % <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 ## 🎓 Education
-* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (GPA:3.89, Rank:1/713)
+* 2017-2021 &ensp; B.E. in Software Engineering, Zhengzhou University (Rank:1/713)
 * 2021-2023 &ensp; M.S. in Computer Science, Tianjin University
-* 2023-2027(expecting)  &ensp; Ph.D. in Software Engineering, Tianjin University
+* 2023- Now &ensp; Ph.D. in Software Engineering, Tianjin University
 
 
 ## 🔥 News
@@ -50,10 +50,10 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 <span style="border: 1px solid #d9534f; color: #d9534f; padding: 1px 5px; border-radius: 4px; font-size: 12px; font-weight: bold; vertical-align: middle;">CCF A</span> 极简风 仅边框
 -->
 
-
+<!-- ========================================== 1 ==========================================-->
 <div class='paper-box' style="display: flex; align-items: flex-start; gap: 20px;">
   
-  <div class='paper-box-image' style="flex: 0 0 250px; max-width: 250px;">
+  <div class='paper-box-image' style="flex: 0 0 150px; max-width: 250px;">
     <div style="position: relative;">
       <div class="badge">INFOCOM 2026</div>
       <img src='images/autoloc.png' alt="sym" style="width: 100%; height: 120px; object-fit: cover; border-radius: 4px;">
@@ -66,8 +66,36 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 **Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
 
+By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
+
+<!-- ========================================== 2 ==========================================-->
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 20px;">
+  
+  <div class='paper-box-image' style="flex: 0 0 150px; max-width: 250px;">
+    <div style="position: relative;">
+      <div class="badge">INFOCOM 2026</div>
+      <img src='images/autoloc.png' alt="sym" style="width: 100%; height: 120px; object-fit: cover; border-radius: 4px;">
+      </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="flex: 1;">
+
+**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+**Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+
+By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
   </div>
 </div>
+
+<!-- ========================================== 2 ==========================================-->
+
+
+**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** <span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+
+**Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+
+By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!--- By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
