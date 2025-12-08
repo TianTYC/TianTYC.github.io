@@ -82,7 +82,6 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 </div>
 </div>
 
----
 
 <!-- ========================================== 2 ==========================================-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/wsgait.PNG' alt="sym" width="60%"></div></div>
@@ -100,7 +99,7 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 
 ---
 <!-- ========================================== 3 ==========================================-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/wstrack.PNG' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/wstrack.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898)&ensp;<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
@@ -185,7 +184,7 @@ Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei
 </div>
 ---
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.10* &ensp; ACM MobiCom 2025 SDP Sensing Challenge (SSC) Global 10th place (10/305)
 - *2023.10* &ensp; First-Class Scholarship
 - *2021.10* &ensp; Special Scholarship 
@@ -196,11 +195,28 @@ Junxiao Xue, Yabo Wang, **Yichen Tian**, Yafei Li, Lei Shi, Lin Wei
 - *2018.12* &ensp; National Scholarship 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+
+# 💬 Presentations
+- *2024.09*, 'Optimization of passive indoor positioning system based on Wi-Fi signal', oral presentation at the 18th CWSN 2024. 
+- *2023.05*, 'WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking', oral presentation at INFOCOM 2023. 
+
+## ✏️ Academic Service
+## &ensp; **Reviewers**
+1. IEEE Internet of Things Journal
+2. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+<div id="footer1">
+		<h2> </h2>
+		<div align="center">
+		  <small>This page has been visited for
+			<a href="https://www.easycounter.com/">
+			<img src="https://www.easycounter.com/counter.php?tyc" border="0" alt="HTML Hit Counter"></a>
+
+	
+  <p>
+	<center>
+	<div align="center" style="width:20%">
+	  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qiU-RdfzQ5M0yLNi5rDZWbDZB2ulHFNhMw_1-YiP1pg"></script>
+	</div>        
+	</center>
+  </p>
