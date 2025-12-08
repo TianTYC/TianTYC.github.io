@@ -72,7 +72,7 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ]([https://arxiv.org/abs/2510.22994](https://www.researchgate.net/profile/Yichen-Tian-2/publication/373507414_WSTrack_A_Wi-Fi_and_Sound_Fusion_System_for_Device-free_Human_Tracking/links/65098d9e82f01628f032a1b5/WSTrack-A-Wi-Fi-and-Sound-Fusion-System-for-Device-free-Human-Tracking.pdf))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+[**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ]((https://www.researchgate.net/profile/Yichen-Tian-2/publication/373507414_WSTrack_A_Wi-Fi_and_Sound_Fusion_System_for_Device-free_Human_Tracking/links/65098d9e82f01628f032a1b5/WSTrack-A-Wi-Fi-and-Sound-Fusion-System-for-Device-free-Human-Tracking.pdf))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
 
 **Yichen Tian**, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
 
@@ -103,7 +103,7 @@ By leveraging neural network-based feature matching and inverse reconstruction, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/wstrack.PNG' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898))<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
+[**WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898)<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
 
 **Yichen Tian**, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
 
