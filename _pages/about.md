@@ -43,7 +43,7 @@ I am conducting research on the **Internet of Things** at the [Tianjin Key Labor
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi] 
