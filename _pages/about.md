@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received my B.E. degree in Software Engineering from [Zhengzhou University](http://softschool.zzu.edu.cn/). Currently, I am a third-year Ph.D. candidate at the School of Software, [Tianjin University](http://cic.tju.edu.cn/english/home.htm). I am conducting research on the **Internet of Things** at the [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), supervised by [Prof. Xinyu Tong](https://cic.tju.edu.cn/faculty/tongxinyu/index.html) and [Prof. Wenyu Qu](https://cic.tju.edu.cn/faculty/wyqu/index.html). My research interests focus on **Wireless Sensing** and **Indoor Localization**.
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge % <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> -->
+% <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
