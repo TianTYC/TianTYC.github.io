@@ -253,7 +253,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         <div class="paper-tags">
             <span class="tag-venue">ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)</span>
             <span class="tag-keyword">Complex Scenarios</span>
-            <span class="tag-keyword">Wi-Fi Tracking>Wspanp
+            <span class="tag-keyword">Wi-Fi Tracking</span>
         </div>
     </div>
 </div>
