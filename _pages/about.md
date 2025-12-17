@@ -185,7 +185,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM 2026)</span>
             <span class="tag-keyword">Wi-Fi Sensing</span>
             <span class="tag-keyword">Indoor Localization</span>
-            <span class="tag-keyword">Device-free</span>
+            <span class="tag-keyword">Device Calibration></span>
         </div>
     </div>
 </div>
@@ -231,7 +231,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM 2023)</span>
             <span class="tag-keyword">Multi-modal Fusion</span>
             <span class="tag-keyword">Wi-Fi + Sound</span>
-            <span class="tag-keyword">Tracking</span>
+            <span class="tag-keyword">Passive Tracking</span>
         </div>
     </div>
 </div>
@@ -253,7 +253,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         <div class="paper-tags">
             <span class="tag-venue">ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)</span>
             <span class="tag-keyword">Complex Scenarios</span>
-            <span class="tag-keyword">Meta-Learning</span>
+            <span class="tag-keyword">Wi-Fi Tracking>Wspanp
         </div>
     </div>
 </div>
@@ -274,9 +274,9 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)</span>
-            <span class="tag-keyword">Wi-Fi Mapping</span>
+            <span class="tag-keyword">Autonomous Mapping</span>
             <span class="tag-keyword">Smart Homes</span>
-            <span class="tag-keyword">Autonomous</span>
+            <span class="tag-keyword">Wi-Fi based Robot</span>
         </div>
     </div>
 </div>
@@ -299,7 +299,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <span class="tag-venue">IEEE Transactions on Mobile Computing (TMC 2024)</span>
             <span class="tag-keyword">Neural Network</span>
             <span class="tag-keyword">Wi-Fi Tracking</span>
-            <span class="tag-keyword">Framework</span>
+            <span class="tag-keyword">Data Simulation</span>
         </div>
     </div>
 </div>
@@ -343,7 +343,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         <div class="paper-tags">
             <span class="tag-venue">IEEE Internet of Things Journal (IoTJ 2023)</span>
             <span class="tag-keyword">Cross-link</span>
-            <span class="tag-keyword">Commodity Wi-Fi</span>
+            <span class="tag-keyword">Wi-Fi Tracking</span>
         </div>
     </div>
 </div>
