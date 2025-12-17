@@ -185,7 +185,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM 2026)</span>
             <span class="tag-keyword">Wi-Fi Sensing</span>
             <span class="tag-keyword">Indoor Localization</span>
-            <span class="tag-keyword">Device Calibration></span>
+            <span class="tag-keyword">Device Calibration</span>
         </div>
     </div>
 </div>
