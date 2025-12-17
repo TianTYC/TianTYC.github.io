@@ -1,3 +1,110 @@
+<style>
+/* 容器样式 */
+.paper-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 25px; /* 论文之间的间距 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* 左侧：年份和等级 */
+.paper-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 15px;
+    min-width: 55px; /* 保证宽度一致 */
+}
+
+.paper-year {
+    color: #426ca9; /* 图片中的年份蓝 */
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    margin-bottom: 4px;
+}
+
+.paper-rank {
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 等级颜色定义 */
+.rank-red { background-color: #ee3f4d; }   /* CCF A / SCI Q1 */
+.rank-blue { background-color: #428bca; }  /* CCF B / SCI Q2 */
+.rank-orange { background-color: #f0ad4e; } /* CCF C / SCI Q3 */
+
+/* 右侧：主要内容 */
+.paper-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* 标题 */
+.paper-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #1a1a1a;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+.paper-title a {
+    color: #2c3e50; /* 深色标题，或者用 #1e3a8a 蓝色 */
+    text-decoration: none;
+}
+.paper-title a:hover {
+    color: #428bca;
+    text-decoration: underline;
+}
+
+/* 作者 */
+.paper-authors {
+    color: #7f8c8d; /* 灰色作者名 */
+    font-size: 0.95rem;
+    margin-bottom: 6px;
+    line-height: 1.4;
+}
+
+/* 底部标签群（会议+关键词） */
+.paper-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px; /* 标签间距 */
+    align-items: center;
+}
+
+/* 会议/期刊标签 (绿色主题) */
+.tag-venue {
+    background-color: #e0f2f1; /* 浅绿背景 */
+    color: #009688;            /* 深绿文字 */
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+/* 关键词标签 (浅蓝灰主题) */
+.tag-keyword {
+    background-color: #f3f6f9;
+    color: #596b83;
+    padding: 3px 10px;
+    border-radius: 12px; /* 稍微圆一点 */
+    font-size: 0.8rem;
+}
+</style>
+
+
+
+
 ---
 permalink: /
 title: "Yichen Tian"
@@ -70,17 +177,27 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 By leveraging neural network-based feature matching and inverse reconstruction, we enable joint device and user position estimation based on COTS Wi-Fi. 
 -->
 <!-- ========================================== 1 ==========================================-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026</div><img src='images/autoloc.PNG' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898)&ensp;<span style="background-color: #d9534f; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; vertical-align: middle;">CCF A</span>
-
-<strong style="color: #428bca;">Yichen Tian</strong>, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
-
-***IEEE International Conference on Computer Communications (INFOCOM) 2026***
-
-<!--[[Page]](https://lulupig12138.github.io/SceneDecorator) [[Paper]](https://arxiv.org/pdf/2510.22994) [[Code]](https://github.com/lulupig12138/SceneDecorator)-->
-</div>
+<div class="paper-item">
+    <div class="paper-left">
+        <div class="paper-year">2026</div>
+        <div class="paper-rank rank-red">CCF A</div>
+    </div>
+    <div class="paper-content">
+        <div class="paper-title">
+            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898">
+                AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi
+            </a>
+        </div>
+        <div class="paper-authors">
+            <strong style="color: #428bca;">Yichen Tian</strong>, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+        </div>
+        <div class="paper-tags">
+            <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM)</span>
+            <span class="tag-keyword">Wi-Fi Sensing</span>
+            <span class="tag-keyword">Indoor Localization</span>
+            <span class="tag-keyword">Device-free</span>
+        </div>
+    </div>
 </div>
 
 
