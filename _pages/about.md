@@ -153,6 +153,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 
 ## 🔥 News
+- *2025.12*: 🎉 One paper is accepted by **TMC**!
 - *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
 - *2025.11*: 🎉 Awarded the **Third Prize** of MobiCom 2025 SSC Competition!
 - *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
@@ -166,6 +167,29 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 
 # 📝 Publications 
+
+<div class="paper-item">
+    <div class="paper-left">
+        <div class="paper-rank rank-red">CCF A</div>
+        <div class="paper-type type-jour">Journal</div>
+    </div>
+    <div class="paper-content">
+        <div class="paper-title">
+            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476728">
+                CATS: Towards Accurate Device-free Tracking by Quantifying the Sensing Confidence
+            </a>
+        </div>
+        <div class="paper-authors">
+            <strong style="color: #428bca;">Yichen Tian</strong>, Xuanqi Meng, Renrui Tan, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
+        </div>
+        <div class="paper-tags">
+            <span class="tag-venue">IEEE Transactions on Mobile Computing (TMC 2026)</span>
+            <span class="tag-keyword">Signal Quality Evaluation</span>
+            <span class="tag-keyword">Robust Tracking</span>
+            <span class="tag-keyword">Multimodal Sensing</span>
+        </div>
+    </div>
+</div>
 
 <div class="paper-item">
     <div class="paper-left">
