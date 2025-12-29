@@ -9,12 +9,48 @@ redirect_from:
 ---
 
 <style>
-/* 容器样式 */
+/* ==================== 全局设置 ==================== */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* ==================== News 样式 (仿图风格) ==================== */
+.news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.news-item {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    display: flex;
+    align-items: flex-start; /* 顶部对齐 */
+}
+
+.news-date {
+    color: #2e7d32; /* 绿色日期 */
+    font-weight: bold;
+    min-width: 75px; /* 固定宽度保证对齐 */
+    margin-right: 5px;
+    white-space: nowrap;
+}
+
+.news-content {
+    color: #1a1a1a; /* 黑色正文 */
+}
+
+.news-highlight {
+    color: #d35400; /* 橙色高亮 (期刊名/奖项) */
+    font-weight: 500;
+}
+
+/* ==================== 论文列表样式 ==================== */
 .paper-item {
     display: flex;
     align-items: flex-start;
     margin-bottom: 25px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     padding-bottom: 15px;
     border-bottom: 1px dashed #eee;
 }
@@ -22,19 +58,18 @@ redirect_from:
     border-bottom: none;
 }
 
-/* 左侧：等级和类型 */
+/* 左侧：仅保留等级 */
 .paper-left {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
     margin-right: 18px;
-    min-width: 75px; /* 稍微加宽以容纳文字 */
-    gap: 6px; /* 两个方块之间的间距 */
+    min-width: 60px; 
     padding-top: 2px;
 }
 
-/* 1. 论文等级 (CCF A / SCI Q1) */
+/* 论文等级 (CCF A / SCI Q1) */
 .paper-rank {
     color: white;
     padding: 4px 0;
@@ -43,32 +78,14 @@ redirect_from:
     font-weight: bold;
     text-align: center;
     width: 100%;
-    /* 增加阴影美观度 */
     box-shadow: 2px 2px 5px rgba(0,0,0,0.2); 
     letter-spacing: 0.5px;
-}
-
-/* 2. 论文类型 (Conference / Journal) */
-.paper-type {
-    color: white;
-    padding: 3px 0;
-    border-radius: 3px;
-    font-size: 0.7rem; /* 字体稍小 */
-    font-weight: 600;
-    text-align: center;
-    width: 100%;
-    text-transform: uppercase;
-    box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
-    opacity: 0.9;
 }
 
 /* 颜色定义 */
 .rank-red { background-color: #ee3f4d; }   /* CCF A / SCI Q1 */
 .rank-blue { background-color: #428bca; }  /* CCF B / SCI Q2 */
 .rank-orange { background-color: #f0ad4e; } /* CCF C / SCI Q3 */
-
-.type-conf { background-color: #546e7a; }  /* 会议：蓝灰色 */
-.type-jour { background-color: #795548; }  /* 期刊：褐色 */
 
 /* 右侧：主要内容 */
 .paper-content {
@@ -103,7 +120,7 @@ redirect_from:
     line-height: 1.5;
 }
 
-/* 标签群 (会议全称 + 关键词) */
+/* 标签群 (会议全称 + 类型 + 关键词) */
 .paper-tags {
     display: flex;
     flex-wrap: wrap;
@@ -111,18 +128,30 @@ redirect_from:
     align-items: center;
 }
 
-/* 会议/期刊全称标签 (绿色主题) */
+/* 1. 会议/期刊全称标签 (绿色主题) */
 .tag-venue {
     background-color: #e0f2f1;
     color: #00796b;
     padding: 3px 10px;
     border-radius: 4px;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     font-weight: 700;
     border: 1px solid #b2dfdb;
 }
 
-/* 关键词标签 (浅灰主题) */
+/* 2. 新的类型标签 (浅黄色主题) - Journal/Conference */
+.tag-type {
+    background-color: #fff3cd; /* 浅黄背景 */
+    color: #856404;            /* 深黄褐色文字 */
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    border: 1px solid #ffeeba;
+    text-transform: uppercase;
+}
+
+/* 3. 关键词标签 (浅灰主题) */
 .tag-keyword {
     background-color: #f8f9fa;
     color: #6c757d;
@@ -153,25 +182,58 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 
 ## 🔥 News
-- *2025.12*: 🎉 One paper is accepted by **TMC**!
-- *2025.12*: 🎉 One paper is accepted by **INFOCOM 2026**!
-- *2025.11*: 🎉 Awarded the **Third Prize** of MobiCom 2025 SSC Competition!
-- *2025.08*: 🎉 Two papers are accepted by **IMWUT/UbiComp 2025**!
-- *2024.03*: 🎉 Two papers are accepted by **TMC**!
-- *2023.05*: 🎉 One paper is accepted by **IoTJ**!
-- *2022.12*: 🎉 One paper is accepted by **INFOCOM 2023**!
-- *2021.06*: 🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.
-- *2021.05*: 🎉 One paper is accepted by **IPM**!
-- *2019.12*: 🏅 Awarded a national scholarship.
-- *2018.12*: 🏅 Awarded a national scholarship.
-
+<ul class="news-list">
+    <li class="news-item">
+        <span class="news-date">2025.12:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">TMC</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2025.12:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">INFOCOM 2026</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2025.11:</span>
+        <span class="news-content">🎉 Awarded the <span class="news-highlight">Third Prize</span> of MobiCom 2025 SSC Competition!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2025.08:</span>
+        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">IMWUT/UbiComp 2025</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2024.03:</span>
+        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">TMC</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2023.05:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IoTJ</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2022.12:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">INFOCOM 2023</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2021.06:</span>
+        <span class="news-content">🎓 Acquired my B.E. degree from Zhengzhou University as an outstanding graduate.</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2021.05:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IPM</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2019.12:</span>
+        <span class="news-content">🏅 Awarded a <span class="news-highlight">National Scholarship</span>.</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2018.12:</span>
+        <span class="news-content">🏅 Awarded a <span class="news-highlight">National Scholarship</span>.</span>
+    </li>
+</ul>
 
 # 📝 Publications 
 
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-jour">Journal</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -184,6 +246,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">IEEE Transactions on Mobile Computing (TMC 2026)</span>
+            <span class="tag-type">Journal</span>
             <span class="tag-keyword">Signal Quality Evaluation</span>
             <span class="tag-keyword">Robust Tracking</span>
             <span class="tag-keyword">Multimodal Sensing</span>
@@ -194,7 +257,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-conf">Conference</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -206,7 +268,8 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <strong style="color: #428bca;">Yichen Tian</strong>, Chenwen Gao, Xiaoqiang Xu, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
         </div>
         <div class="paper-tags">
-            <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM 2026)</span>
+            <span class="tag-venue">IEEE INFOCOM 2026</span>
+            <span class="tag-type">Conference</span>
             <span class="tag-keyword">Wi-Fi Sensing</span>
             <span class="tag-keyword">Indoor Localization</span>
             <span class="tag-keyword">Device Calibration</span>
@@ -217,7 +280,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-jour">Journal</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -230,6 +292,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">IEEE Transactions on Mobile Computing (TMC 2024)</span>
+            <span class="tag-type">Journal</span>
             <span class="tag-keyword">Gait Recognition</span>
             <span class="tag-keyword">Acoustic Sensing</span>
             <span class="tag-keyword">Smart Speaker</span>
@@ -240,7 +303,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-conf">Conference</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -252,7 +314,8 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             <strong style="color: #428bca;">Yichen Tian</strong>, Yunliang Wang, Ruikai Zheng, Xiulong Liu, Xinyu Tong, Keqiu Li
         </div>
         <div class="paper-tags">
-            <span class="tag-venue">IEEE International Conference on Computer Communications (INFOCOM 2023)</span>
+            <span class="tag-venue">IEEE INFOCOM 2023</span>
+            <span class="tag-type">Conference</span>
             <span class="tag-keyword">Multi-modal Fusion</span>
             <span class="tag-keyword">Wi-Fi + Sound</span>
             <span class="tag-keyword">Passive Tracking</span>
@@ -263,7 +326,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-conf">Conference</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -275,7 +337,8 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             Xuanqi Meng, Weiping Ge, <strong style="color: #428bca;">Yichen Tian</strong>, Xinyu Tong, Xiulong Liu, Xin Xie, Wenyu Qu
         </div>
         <div class="paper-tags">
-            <span class="tag-venue">ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)</span>
+            <span class="tag-venue">ACM IMWUT / UbiComp 2025</span>
+            <span class="tag-type">Conference</span>
             <span class="tag-keyword">Complex Scenarios</span>
             <span class="tag-keyword">Wi-Fi Tracking</span>
         </div>
@@ -285,7 +348,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-conf">Conference</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -297,10 +359,10 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             Renrui Tan, Tu Hong, <strong style="color: #428bca;">Yichen Tian</strong>, Xinyu Tong, Sheng Chen, Xiulong Liu, Xin Xie, Wenyu Qu
         </div>
         <div class="paper-tags">
-            <span class="tag-venue">ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)</span>
+            <span class="tag-venue">ACM IMWUT / UbiComp 2025</span>
+            <span class="tag-type">Conference</span>
             <span class="tag-keyword">Autonomous Mapping</span>
             <span class="tag-keyword">Smart Homes</span>
-            <span class="tag-keyword">Wi-Fi based Robot</span>
         </div>
     </div>
 </div>
@@ -308,7 +370,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">CCF A</div>
-        <div class="paper-type type-jour">Journal</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -321,6 +382,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">IEEE Transactions on Mobile Computing (TMC 2024)</span>
+            <span class="tag-type">Journal</span>
             <span class="tag-keyword">Neural Network</span>
             <span class="tag-keyword">Wi-Fi Tracking</span>
             <span class="tag-keyword">Data Simulation</span>
@@ -331,7 +393,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-red">SCI Q1</div>
-        <div class="paper-type type-jour">Journal</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -344,6 +405,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">Information Processing and Management (IPM 2021)</span>
+            <span class="tag-type">Journal</span>
             <span class="tag-keyword">Fake News Detection</span>
             <span class="tag-keyword">Multi-feature Fusion</span>
         </div>
@@ -353,7 +415,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 <div class="paper-item">
     <div class="paper-left">
         <div class="paper-rank rank-blue">SCI Q2</div>
-        <div class="paper-type type-jour">Journal</div>
     </div>
     <div class="paper-content">
         <div class="paper-title">
@@ -366,6 +427,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
         </div>
         <div class="paper-tags">
             <span class="tag-venue">IEEE Internet of Things Journal (IoTJ 2023)</span>
+            <span class="tag-type">Journal</span>
             <span class="tag-keyword">Cross-link</span>
             <span class="tag-keyword">Wi-Fi Tracking</span>
         </div>
