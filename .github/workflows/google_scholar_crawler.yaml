@@ -1,29 +1,55 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '0 8 * * *'  # 每天 UTC 8:00 运行
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 获取完整历史
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          cd ./google_scholar_crawler
+          pip3 install -r requirements.txt
+          
+      - name: Run crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          cd ./google_scholar_crawler
+          python3 main.py
+          
+      - name: Commit and push results
+        run: |
+          cd ./google_scholar_crawler/results
+          
+          # 配置 Git
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          
+          # 检查是否有变化
+          if [ -n "$(git status --porcelain)" ]; then
+            # 切换或创建分支
+            git checkout -B google-scholar-stats
+            
+            # 添加并提交
+            git add *.json
+            git commit -m "Updated Citation Data on $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            # 推送
+            git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" google-scholar-stats --force
+          else
+            echo "No changes to commit"
+          fi
