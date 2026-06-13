@@ -453,7 +453,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 
 # ✏️ Academic Service
-- Reviewer of IEEE Internet of Things Journal(IoTJ), ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT).
+- Reviewer of IEEE IoTJ, TMC, WCL, ACM IMWUT.
     
 <div id="footer1">
 		<h2> </h2>
