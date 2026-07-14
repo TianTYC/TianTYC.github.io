@@ -260,7 +260,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
     </div>
     <div class="paper-content">
         <div class="paper-title">
-            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228898">
+            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11571312">
                 AutoLoc: Enabling Low-Effort Device and User Localization with Commercial Wi-Fi
             </a>
         </div>
