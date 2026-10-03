@@ -246,7 +246,7 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
             </a>
         </div>
         <div class="paper-authors">
-            <strong style="color: #428bca;">Yunliang Wang, Yichen Tian*</strong>, Xuanqi Meng, Jinwei Gao, Xinyu Tong, Sheng Chen, Xiaoyi Tao, Xiulong Liu, Wenyu Qu
+            Yunliang Wang, <strong style="color: #428bca;">Yichen Tian*</strong>, Xuanqi Meng, Jinwei Gao, Xinyu Tong, Sheng Chen, Xiaoyi Tao, Xiulong Liu, Wenyu Qu
         </div>
         <div class="paper-tags">
             <span class="tag-venue">ACM IMWUT / UbiComp 2026</span>
