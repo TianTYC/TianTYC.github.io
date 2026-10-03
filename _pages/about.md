@@ -183,13 +183,17 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 
 ## 🔥 News
 <ul class="news-list">
-    <li class="news-item">
-        <span class="news-date">2025.12:</span>
-        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">TMC</span>!</span>
+	<li class="news-item">
+        <span class="news-date">2026.09:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">ACM IMWUT/UbiComp 2026</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2025.12:</span>
-        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">INFOCOM 2026</span>!</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IEEE TMC 2025</span>!</span>
+    </li>
+    <li class="news-item">
+        <span class="news-date">2025.12:</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IEEE INFOCOM 2026</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2025.11:</span>
@@ -197,19 +201,19 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
     </li>
     <li class="news-item">
         <span class="news-date">2025.08:</span>
-        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">IMWUT/UbiComp 2025</span>!</span>
+        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">ACM IMWUT/UbiComp 2025</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2024.03:</span>
-        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">TMC</span>!</span>
+        <span class="news-content">🎉 Two papers are accepted by <span class="news-highlight">IEEE TMC 2024</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2023.05:</span>
-        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IoTJ</span>!</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IEEE IoTJ 2023</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2022.12:</span>
-        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">INFOCOM 2023</span>!</span>
+        <span class="news-content">🎉 One paper is accepted by <span class="news-highlight">IEEE INFOCOM 2023</span>!</span>
     </li>
     <li class="news-item">
         <span class="news-date">2021.06:</span>
@@ -230,6 +234,29 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 </ul>
 
 # 📝 Publications 
+
+<div class="paper-item">
+    <div class="paper-left">
+        <div class="paper-rank rank-red">CCF A</div>
+    </div>
+    <div class="paper-content">
+        <div class="paper-title">
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3831991">
+                UbiTrack: A Layout-Robust Neural System for Device-Free WiFi Tracking
+            </a>
+        </div>
+        <div class="paper-authors">
+            <strong style="color: #428bca;">Yunliang Wang, Yichen Tian*</strong>, Xuanqi Meng, Jinwei Gao, Xinyu Tong, Sheng Chen, Xiaoyi Tao, Xiulong Liu, Wenyu Qu
+        </div>
+        <div class="paper-tags">
+            <span class="tag-venue">ACM IMWUT / UbiComp 2026</span>
+            <span class="tag-type">Conference</span>
+            <span class="tag-keyword">Device Layout</span>
+            <span class="tag-keyword">Robust Tracking</span>
+            <span class="tag-keyword">Cross-layouts</span>
+        </div>
+    </div>
+</div>
 
 <div class="paper-item">
     <div class="paper-left">
