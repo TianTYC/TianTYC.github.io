@@ -479,8 +479,6 @@ I received my B.E. degree in Software Engineering from [Zhengzhou University](ht
 - *2024.09*, 'Optimization of passive indoor positioning system based on Wi-Fi signal', oral presentation at the 18th CWSN 2024, Taiyuan, China. 
 - *2023.05*, 'WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking', oral presentation at INFOCOM 2023, New York, USA (online). 
 
-<img width="999" height="62" alt="image" src="https://github.com/user-attachments/assets/8f9db7a8-74fa-4342-b704-83457d44003d" />
-
 
 # ✏️ Academic Service
 - Reviewer of IEEE IoTJ, TMC, WCL, ACM IMWUT.
